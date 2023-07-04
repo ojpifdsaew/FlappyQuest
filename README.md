@@ -9,6 +9,7 @@ Development is slow because its just me working on it, So there is no ETA for re
 I will release development previews in my discord (Not up yet).
 # License
 • MIT
+
 • Copyright (c) 2023 - 2023 Man Guy, Man Guy (Man Guy Team)
 # Notice
 I do not own most of the assets in this game, Most of the assets come from FlappyBird itself.
