@@ -1,10 +1,12 @@
 # FlappyQuest
 Basically a FlappyBird story-mode for iOS.
-# Compatability
-N/A - 16.1.1
-iPhone 8 and up.
-# Installation
-No way of installing the game as of July 2023.
+
+<img src="https://github.com/ojpifdsaew/FlappyQuest/assets/68922095/4e66101e-f5f9-40f4-a778-e347ea95df74" width=30% height=30%>
+
+# Development
+Development is slow because its just me working on it, So there is no ETA for release yet.
+
+I will release development previews in my discord (Not up yet).
 # License
 • MIT
 • Copyright (c) 2023 - 2023 Man Guy, Man Guy (Man Guy Team)
