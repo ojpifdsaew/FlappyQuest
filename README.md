@@ -19,7 +19,7 @@ They are the work and copyright of Dong Nguyen and .GEARS games
 
 I took this Tweet
 
-(https://twitter.com/dongatory/status/431060041009856512 / http://i.imgur.com/AcyWyqf.png)
+(http://i.imgur.com/AcyWyqf.png)
 
 by Dong Nguyen, the creator of the game, as an open invitation to reuse the game concept and assets in an open source project.
 There is no intention to steal the game.
