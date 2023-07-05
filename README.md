@@ -1,7 +1,7 @@
 # FlappyQuest
 Basically a FlappyBird story-mode for iOS.
 
-<img src="https://github.com/ojpifdsaew/FlappyQuest/assets/68922095/4e66101e-f5f9-40f4-a778-e347ea95df74" width=30% height=30%>
+<img src="Demo.gif" width=20% height=20%>
 
 # Development
 Development is slow because its just me working on it, So there is no ETA for release yet.
